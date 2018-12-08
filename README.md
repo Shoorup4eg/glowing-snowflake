@@ -3,7 +3,7 @@ A large glowing snowflake (diameter 31cm). One universal PCB. Simple assembly, s
 
 Scheme of the project
 
-<a href="https://raw.githubusercontent.com/Shoorup4eg/glowing-snowflake/blob/master/snowflake_sheme.png"><img src="https://raw.githubusercontent.com/tShoorup4eg/glowing-snowflake/blob/master/snowflake_sheme.png"></a>
+<a href="https://github.com/Shoorup4eg/glowing-snowflake/blob/master/snowflake_sheme.png"><img src="https://github.com/tShoorup4eg/glowing-snowflake/blob/master/snowflake_sheme.png"></a>
 
 view of the top side of PCB
 
