@@ -1,16 +1,17 @@
-### Glowing SnowFlake
+# Glowing SnowFlake
+
 A large glowing snowflake (diameter 31cm). One universal PCB. Simple assembly, simple setup. Great variability in the use of components. Recommended black textolite with white color mask for better visual effect. 
 
 Scheme of the project
 
-<a href="https://github.com/Shoorup4eg/glowing-snowflake/blob/master/snowflake_sheme.png"><img src="https://github.com/tShoorup4eg/glowing-snowflake/blob/master/snowflake_sheme.png"  align="left" height="700" width="875"></a>
+<a href="https://github.com/Shoorup4eg/glowing-snowflake/blob/master/snowflake_sheme.png"><img src="https://github.com/tShoorup4eg/glowing-snowflake/blob/master/snowflake_sheme.png"  align="left" height="710" width="888"></a>
 
-view of the top side of PCB
+View of the top side of PCB
 
 <a href="https://github.com/Shoorup4eg/glowing-snowflake/blob/master/top-view.png"><img src="https://github.com/Shoorup4eg/glowing-snowflake/blob/master/top-view.png"></a>
 
 
-## COMPONENTS
+### COMPONENTS
 Option 1
 
 1) Module esp-07 or esp-12e or esp-12f 1pcs
@@ -38,8 +39,8 @@ Option 2
 8) resistor smd 1206 or smd 0805 nominal from 4.7 to 10 kOhm 1pc
 9) 1pc dc-005 power connector (can not be installed when powered by microUSB)
 
-## TECHNICAL DETAILS
-A 5v 2a power supply is required to power the device.
+### TECHNICAL DETAILS
+A 5v 2a (MINIMUM) power supply is required to power the device.
 
-## BUILD RECOMMENDATIONS
+### BUILD RECOMMENDATIONS
 First solder all the necessary smd resistors and capacitors in accordance with the selected option. Then solder the rest of the necessary elements and lastly solder the ws2812 LEDs.
