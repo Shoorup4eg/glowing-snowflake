@@ -2,7 +2,8 @@
 A large glowing snowflake (diameter 31cm). One universal PCB. Simple assembly, simple setup. Great variability in the use of components. Recommended black textolite with white color mask for better visual effect. 
 
 Scheme of the project
-![snowflake_sheme.png]({{site.baseurl}}/snowflake_sheme.png)
+
+<a href="https://raw.githubusercontent.com/Shoorup4eg/glowing-snowflake/blob/master/snowflake_sheme.png"><img src="https://raw.githubusercontent.com/tShoorup4eg/glowing-snowflake/blob/master/snowflake_sheme.png"></a>
 
 view of the top side of PCB
 
